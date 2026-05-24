@@ -1,0 +1,6 @@
+{
+  "name": "FWK EDUMIND AI",
+  "description": "تطبيق أكاديمي متكامل لتلخيص المحاضرات وتجهيز الأسئلة والتدريبات وتصديرها لملفات Word، بجانب نظام ذكي لتحديد لجان وتفاصيل الامتحانات وتتبع مباني الكلية بالخرائط التفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
